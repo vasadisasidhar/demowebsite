@@ -1,0 +1,151 @@
+.contactForm {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #555;
+    font-weight: bold;
+  }
+  
+  input[type='text'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  input[type='text']:focus {
+    border-color: #66afe9;
+    outline: none;
+  }
+  
+  .btnn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /*.btn:hover {
+    background-color:blue;
+  }*/
+  
+  .headOffice, .branchOffice {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .headOffice h1, .branchOffice h1 {
+    text-align: center;
+    color: #333;
+    font-size: 25px;
+  }
+  
+  .headOffice h3, .branchOffice h3 {
+    color: #666;
+    margin: 5px 0;
+  }
+
+  .contactSection{
+    width:100%;
+  max-width: 50rem;
+  margin: auto;
+  }
+
+
+  h3 {
+    color: #333;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  h1 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  p{
+    font-size: 18px;
+  }
+  
+  main {
+    width:90%;
+    max-width: 550rem;
+    margin: auto;
+  }
+  main h2 {
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+    margin: 0 0 1.5rem 0;
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  #core-concepts ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #core-concepts li {
+    width: 34rem;
+   
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*#core-concepts li img {
+  height: 4rem;
+  width: 6rem;
+  object-fit: cover;
+}
+
+#core-concepts li h3 {
+  margin: 0.5rem 0;
+}
+
+#core-concepts li p {
+  font-size: 0.9rem;
+}
+*/
+
+
+
+  
